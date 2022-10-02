@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "de6171f7158d12900943",
-    "url": "/advice-generator-app/static/css/main.2c4ab02a.chunk.css"
+    "revision": "1f34eb36c41ade962f38",
+    "url": "/advice-generator-app/static/css/main.228627c1.chunk.css"
   },
   {
-    "revision": "de6171f7158d12900943",
-    "url": "/advice-generator-app/static/js/main.de6171f7.chunk.js"
+    "revision": "1f34eb36c41ade962f38",
+    "url": "/advice-generator-app/static/js/main.1f34eb36.chunk.js"
   },
   {
     "revision": "206e060bd7d3afd2158d",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/advice-generator-app/static/media/pattern-divider-mobile.afbe147e.svg"
   },
   {
-    "revision": "477ba7b7f5debf8e71c1bd0dc138c5df",
+    "revision": "fb991248ee84dff6e9766827d80a5f77",
     "url": "/advice-generator-app/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/advice-generator-app/precache-manifest.0a3ff9b5904e3881d7eeca2dc4910b29.js"
+  "/advice-generator-app/precache-manifest.c8fee49b8691bcb8b56d4388efc875d9.js"
 );
 
 workbox.clientsClaim();

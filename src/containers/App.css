@@ -43,4 +43,9 @@ body{
     background: #53FFAA;
     padding: 10px;
     border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+}
+
+.dice-icon:hover{
+    box-shadow: 0 0 16px #0ef17f;
 }

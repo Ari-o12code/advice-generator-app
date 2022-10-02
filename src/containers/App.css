@@ -41,8 +41,9 @@ body{
     display: flex;
     margin-top: -1.5em;
     background: #53FFAA;
-    padding: 10px;
+    padding: 15px;
     border-radius: 50%;
+    cursor: pointer;
     transition: all 0.2s ease-in-out;
 }
 

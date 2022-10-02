@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    background-color: #202733;
+    display: grid;
+    place-items: center;
+}
+
+.container{
+    display: grid;
+    place-items: center;
+}
+
+.card{
+    display: grid;
+    place-items: center;
+    background: #313A48;
+    max-width: 80vw;
+    margin-top: 12em;
+    padding: 2em;
+    border-radius: 10px;
+    color: white;
+}
+
+.advice{
+    color: #53FFAA;
+    font-size: 10px;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.pattern-divider{
+    margin-bottom: 1em;
+}
+
+.dice-icon{
+    display: flex;
+    margin-top: -1.5em;
+    background: #53FFAA;
+    padding: 10px;
+    border-radius: 50%;
+}
